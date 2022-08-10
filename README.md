@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 
 ## 💻 Projeto
- Solução para um desafio do <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>. Você pode acessar o projeto através <a href="https://whimsical-kitsune-8ca1d4.netlify.app/" target="_blank">deste link</a>
+ Solução para um desafio do <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>. Você pode acessar o projeto através <a href="https://larissacauane.github.io/404-Not-Found-Page/" target="_blank">deste link</a>
 
 
 ## 📝 Licença
