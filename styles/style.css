@@ -1,6 +1,11 @@
 :root {
-    --primary-color: #333333;
-    --secondary-color:#4F4F4F;
+  /* COLORS */
+  --primary-color: #333333;
+  --secondary-color: #4f4f4f;
+
+  /* FONTS */
+  --primary-font: "Space Mono";
+  --secondary-font: "Inconsolata";
 }
 
 *,
@@ -13,6 +18,69 @@
   list-style-type: none;
 }
 
+html {
+  font-size: 62.5%; /*62.5% = 10px*/
+}
+
 body {
-    font-size: 62.5%;
+  font-family: var(--primary-font);
+  overflow: hidden;
+}
+
+/* HEADER */
+.header {
+  padding: 2em 2.4em;
+}
+
+.header__logo {
+  font-family: var(--secondary-font);
+  font-weight: 700;
+  color: var(--primary-color);
+  font-size: 2.4em;
+  letter-spacing: -0.08em;
+}
+
+.container {
+  padding: 2em;
+}
+
+/* IMAGE */
+.container__image {
+  text-align: center;
+  margin-bottom: 4em;
+}
+.container__image img {
+  width: 85%;
+}
+
+/* TEXT */
+.container__title {
+  font-size: 4.8em;
+  font-weight: 700;
+  color: var(--primary-color);
+  letter-spacing: -0.035em;
+}
+
+.container__text {
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: var(--secondary-color);
+  line-height: 1.6em;
+  letter-spacing: -0.035em;
+  margin: 1em 0;
+}
+
+/* BUTTON */
+.container__button:link,
+.container__button:visited {
+  display: inline-block;
+  padding: 1.5em 2.5em; /*padding: top right bottom left*/
+  background-color: var(--primary-color);
+  color: white;
+  font-size: 1.4em;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 1em;
 }

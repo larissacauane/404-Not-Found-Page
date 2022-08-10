@@ -1,0 +1,26 @@
+@media screen and (min-width: 1024px) {
+  .container {
+    display: flex;
+    margin-top: 5em;
+  }
+
+  .container__text {
+    margin: 2em 0;
+    width: 80%;
+  }
+
+  .container__image img {
+    width: 75%;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .container__title {
+    font-size: 6.4em;
+  }
+
+  .container__text {
+    font-size: 2.4em;
+    width: 55%;
+  }
+}
