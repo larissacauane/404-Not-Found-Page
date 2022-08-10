@@ -4,7 +4,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=60588E&labelColor=000000" alt="PRs welcome!" />
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  <img alt="OriginSix" src="https://i.imgur.com/NuexHwQ.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 
 ## 💻 Projeto
- Solução para um desafio do <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>. Você pode acessar o projeto através <a href="http://devchallenges.io" target="_blank">deste link</a>
+ Solução para um desafio do <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>. Você pode acessar o projeto através <a href="https://whimsical-kitsune-8ca1d4.netlify.app/" target="_blank">deste link</a>
 
 
 ## 📝 Licença
